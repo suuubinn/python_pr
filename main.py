@@ -1,4 +1,4 @@
-name = input('이름을 입력하세오: ')
+name = input('성명을 입력하세오: ')
 print(name)
 
 # 문자열을 정수로 변환
